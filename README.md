@@ -30,6 +30,7 @@ Exits the program.
 ---
 
 ## 📂 Project Structure
+---
 /src
 ├── Point.java
 ├── GeometryUtils.java
@@ -60,7 +61,7 @@ java Main
 5. Display slope of lines
 6. Quit
 
-```bash
+```md
 
 ## 👤 About Me
 
