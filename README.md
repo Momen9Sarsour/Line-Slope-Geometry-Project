@@ -60,7 +60,7 @@ java Main
 5. Display slope of lines
 6. Quit
 
----
+```bash
 
 ## 👤 About Me
 
